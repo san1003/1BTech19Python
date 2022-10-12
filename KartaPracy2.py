@@ -48,10 +48,10 @@
 #   print("NIE nie spelnia warunku mtf")
 
 #Zad 7
-p = int(input())
-k = int(input())
-s = int(input())
-if ((p+k+s)/3 >= 0):
-  print("TAK")
-else:
-  print("NIE")
+# p = int(input())
+# k = int(input())
+# s = int(input())
+# if ((p+k+s)/3 >= 0):
+#   print("TAK")
+# else:
+#   print("NIE")
