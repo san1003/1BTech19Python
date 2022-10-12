@@ -24,21 +24,12 @@
 #   print("NIE")
 
 #Zad4
-a = int(input())
-b = int(input())
-c = int(input())
-d = int(input())
-if (a <= b or c or d):
-  print("liczba a")
-else:
-  (b <= a or c or d)
-  print("liczba b")
-or:
-(c <= a or b or d)
-print("liczba c")
-or:
-(d <= a or c or b)
-print("liczba c")
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# d = int(input())
+# print(min(a,b,c,d))
+
 
         
     
