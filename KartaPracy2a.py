@@ -18,7 +18,7 @@
 # k = int(input())
 # l = int(input())
 # m = int(input())
-# if (a == b) or (b == c) or (c == a) :
+# if (k==l) or (l==m) or (m==k) :
 #   print("TAK")
 # else:
 #   print("NIE")
@@ -29,6 +29,31 @@
 # c = int(input())
 # d = int(input())
 # print(min(a,b,c,d))
+
+#Zad5
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# if a + b > c or a + c > b or b + c > a:
+# print("TAK")
+# else:
+# print("NIE")
+
+#Zad6
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# if a+b>c or a+c>b or b+c>a:
+#   if (c^2>a^2+b^2):
+#     print("Ten trójkat jest rozwartokątny")
+#   else:
+#     if (c^2==a^2+b^2):
+#       print("Ten trójkąt jest prostokątny")
+#     else:
+#       if (c^2<a^2+b^2):
+#         print("Ten trójkąt jest ostrokątny")
+
+
 
 
         
