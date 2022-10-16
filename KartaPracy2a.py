@@ -34,10 +34,10 @@
 # a = int(input())
 # b = int(input())
 # c = int(input())
-# if a + b > c or a + c > b or b + c > a:
-# print("TAK")
+# if a + b > c and a + c > b and b + c > a:
+#  print("TAK")
 # else:
-# print("NIE")
+#  print("NIE")
 
 #Zad6
 # a = int(input())
