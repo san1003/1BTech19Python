@@ -11,10 +11,16 @@
 #   print(i)
 
 #Zad4
-# for (i) in range(100, 1000):
+# for i in range(100, 1000):
 #   if (i%5 ==0 and i%6 ==0) or (i%5 ==0 and i%6 ==0 and i%6 == 0):
 #     print(i)
 
 #Zad5
- 
-  
+ # for i in range()
+
+
+
+#Zad6
+k = int(input())
+# for i in range(k**2):
+#   print(i)
