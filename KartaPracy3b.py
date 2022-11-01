@@ -12,15 +12,23 @@
 
 #Zad4
 # for i in range(100, 1000):
-#   if (i%5 ==0 and i%6 ==0) or (i%5 ==0 and i%6 ==0 and i%6 == 0):
+#   if (i%5 ==0 and i%6 ==0) or (i%5 ==0 and i%6 ==0 and i%11 == 0):
 #     print(i)
 
 #Zad5
- # for i in range()
+# n = int(input("w ile gramy?"))
+# suma = n * (n+1) // 2
+# for i in range(n-1):
+#    a = int(input())
+#    suma = suma - a
+# print(suma) 
 
 
 
 #Zad6
-k = int(input())
-# for i in range(k**2):
-#   print(i)
+# k = int(input())
+# suma = 0
+# for i in range(0,2 * k,2):
+#  suma += i
+# print(suma)
+
