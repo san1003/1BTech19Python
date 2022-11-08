@@ -32,6 +32,18 @@
 #    suma = suma - a
 # print(suma) 
 
+
+#Zad6
+
+#Fibo wg literatury 0 1 1 2 3 5 7 13 21 34
+#Fibo nasze 1, 2, 3, 4, 8, 13...
+# n = int(input())
+# a, b = 0, 1
+# for i in range(n):
+#   a, b = b, a + b
+# print(b, end="")
+  
+
 #Zadanie dodatkowe napisz pętle sumując liczby dwucyfrowe parzyste
 # suma = 0
 # for i in range(10, 100, 2):

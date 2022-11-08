@@ -24,7 +24,6 @@
 # print(suma) 
 
 
-
 #Zad6
 # k = int(input())
 # suma = 0
@@ -40,15 +39,7 @@
 # print(suma, end="")
 
 #Zad8
-# W = int(input("Wartość inwestycji"))
-# L = int(input("Lata inwestycji"))
-# Wk = 0
-# suma = Wk
-# for i in range(0,L * 12):
-#     Wk = suma * 0.06 * (1/12)
-#     suma = suma+Wk
-# print("Końcowa wartość inwestycji wynosi")
-# print(suma)
+/
 
 #Zad9
 # n = int(input())
