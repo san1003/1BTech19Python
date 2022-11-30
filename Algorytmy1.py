@@ -42,6 +42,7 @@
 #     else:
 #         i = i + 1 
 
+ 
 
 # a = int(input())
 # b = int(input())
@@ -50,9 +51,20 @@
 #   if b > a : b = b - a
 # print(a)
 
-a = int(input())
-b = int(input())
-while b>0:
-  a, b = b, a%b
-print(a)  
-  
+#modulo
+# a = int(input())
+# b = int(input())
+# while b>0:
+#   a, b = b, a%b
+# print(a)  
+
+
+# NWW odejmowanie
+a=int(input())
+b=int(input())
+iloczyn=a*b
+while a!=b:
+  if a > b : a = a - b
+  if b > a : b = b - a
+NWD=a    
+print(iloczyn/NWD)
