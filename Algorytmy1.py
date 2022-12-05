@@ -77,3 +77,4 @@
 # nwd = a
 
 # print(iloczyn // nwd)
+
