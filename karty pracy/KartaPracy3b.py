@@ -39,7 +39,6 @@
 # print(suma, end="")
 
 #Zad8
-/
 
 #Zad9
 # n = int(input())
