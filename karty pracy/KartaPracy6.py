@@ -48,14 +48,14 @@
 
 
 #zadanie 5
-ilosc= 0
-suma= 0
-for i in range(10,100):
-  cs = i //100
-  cd = (i%100)// 10
-  cj = i % 10
-  if cd >= 2*cj:
-    ilosc += 1
-print(ilosc)
+# ilosc= 0
+# suma= 0
+# for i in range(10,100):
+#   cs = i //100
+#   cd = (i%100)// 10
+#   cj = i % 10
+#   if cd >= 2*cj:
+#     ilosc += 1
+# print(ilosc)
 
   
