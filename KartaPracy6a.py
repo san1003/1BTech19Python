@@ -30,3 +30,25 @@
 #   print("liczba nie jest doskonala")
 
 #Zad4
+# a  = int(input())
+# b  = int(input())
+# x, y = a, b
+# while y > 0:
+#      x, y = y , x%y
+# if x == 1:
+#   print(f"TAK, {x} i {y} są liczbami względnymi pierwszymi")
+# else:
+#   print(f"NIE, {x} i {y} są liczbami względnymi pierwszymi")
+
+#Zad5
+# m =int(input())
+# for i in range(10,20):
+#   x,y=i,m
+# while y > 0:
+#       x,y = y,x%y
+# if x == 1:
+#     print(f" TAK,{i} i {m} są liczbami pierwszymi względnych")
+# else:
+#     print(f"NIE, {i} i {m} są liczbami pierszymi wzglednych")
+
+#Zad6
