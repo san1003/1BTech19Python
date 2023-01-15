@@ -1,4 +1,4 @@
-#Zad 1
+# Zad1
 # x=int(input())
 # suma=0
 # while x > 0:
@@ -10,15 +10,15 @@
 # 367 % 10 = 7
 # 367 // 10 = 36
 
-#Zad2
-# a = int(input())
+# Zad2
+# n = int(input())
+# for i in range(2,n):
+#     if n % i == 0:
+#         print("NIE")
+#         exit(0)
+# print("TAK")
 
-# if a % a==0 and a % 1==0:
-#   print("jest liczba pierwsza")
-# else:
-#   print("nie jest liczba pierwsza")
-
-#Zad3
+# Zad3
 # a = int(input())
 # suma = 0
 # for i in range(1,a):
@@ -29,7 +29,7 @@
 # else:
 #   print("liczba nie jest doskonala")
 
-#Zad4
+# Zad4
 # a  = int(input())
 # b  = int(input())
 # x, y = a, b
@@ -40,7 +40,7 @@
 # else:
 #   print(f"NIE, {x} i {y} są liczbami względnymi pierwszymi")
 
-#Zad5
+# Zad5
 # m =int(input())
 # for i in range(10,20):
 #   x,y=i,m
