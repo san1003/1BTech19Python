@@ -38,3 +38,11 @@ print(L.count(max(L)))
 
 # zadanie 4
 print(L.count(min(L)))
+
+
+# zadanie 5
+print(sort(L)
+
+# zadanie 6
+
+
