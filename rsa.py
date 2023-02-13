@@ -32,9 +32,12 @@
 # m - moja wiadomosc
 # c = m**e % n (szyfogram - cypher = wiadomosc zaszyfrowana)
 # t = c**d % n(tekst jawny czyli nasza wiadomosc text(message))
-m = input()
+
+m = input("Podaj slowo do szyfracji")
 cipher = ""
 for i in m:
-  cipher += (chr((ord(i)**e)%n) 
-print() 
-  
+  cipher += (chr((ord(i)**e)%n)
+print(cipher)             
+             
+
+             
