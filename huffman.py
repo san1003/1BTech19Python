@@ -17,12 +17,5 @@
 
 
 
-licz1 = int(input())
-mia1 = int(input())
-licz2 = int(input())
-mia2 = int(input())
-#nww liczebnikow
-# iloczyn mianownikow
-wspolny= int(mia1*mia2 / gcd(mia1, mia2))
 
 
