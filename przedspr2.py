@@ -21,10 +21,3 @@ for j in range(1,b):
 # #nww liczebnikow
 # # iloczyn mianownikow
 # wspolny= int(mia1*mia2 / gcd(mia1, mia2))
-
-f = int(input())
-suma = 0 
-while f > 0:
-  cyfra = f % 10
-  suma = suma + cyfra
-  x = x // 10
