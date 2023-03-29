@@ -1,0 +1,10 @@
+napisy
+len for foreach ord chr
+funkcje sort
+indeksy zakresy
+
+konwersja list <-> napis
+split join
+
+algorytmy
+anagram palindrom boyer moore

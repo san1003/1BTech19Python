@@ -41,4 +41,8 @@ if L == R:
   print("tak")
 else:
   print("nie")
+
+
+
+  
   
